@@ -2,6 +2,7 @@
   "name": "ra2-1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kittennik.github.io/ra2-1/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
